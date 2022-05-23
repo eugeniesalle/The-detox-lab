@@ -1,0 +1,36 @@
+/* Importing Google fonts */
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,700");
+
+/* Importing component files */
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+/* General style rules for fonts and colors */
+body {
+  font-family: 'Times New Roman', serif;
+  font-size: 18px;
+  margin: 0px;
+}
+h1, h2, h3 {
+  font-family: 'Calibri sans-serif;', sans-serif;
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+}
+
+box-shadow: 0px 10px 30px #FDAF75(30,0,0,0,1);
+
+body{
+	background-color: red;
+	background: #FDAF75(20,240,270); ;
+	color: #FDAF75(72,30,176);
+	font-family: helvetica;
+	font-size: 17px;
+	font-weight: lighter;
+	width: 700px;
+	margin: 30px auto;
+
